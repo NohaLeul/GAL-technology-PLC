@@ -1,0 +1,1 @@
+Replace with company-owned assets: logo.png, hero-slide-1.jpg, ceo.jpg, company-building.jpg, laboratory.jpg, partner-logo.png, partner-image.jpg, and discipline/product images. The current concept uses CSS-generated 3D visuals as graceful placeholders.
