@@ -64,3 +64,16 @@
 .map-coordinates{font:10px "DM Mono",monospace;letter-spacing:.12em;color:#857786;margin:12px 0 0;}
 .company-address{line-height:1.7;}
 @media(max-width:760px){.live-map{height:280px}.map-panel{padding:13px}.map-panel-heading h2{font-size:22px}}
+.partner-mark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.partner-logo {
+    display: block;
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+    object-fit: contain;
+}
